@@ -32,8 +32,6 @@
         </config-file>
         
         
-        <dependency id="com.google.playservices" />
-        
         <source-file src="src/android/libs/pollfish.jar" target-dir="libs"/>
         <source-file src="src/android/PollfishPlugin.java" target-dir="src/com/pollfish/cordova" />
         
